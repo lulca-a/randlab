@@ -27,5 +27,3 @@ class Inputer:
             raise ValueError("Places must be >= 0")
         
         return [round(uniform(min_value,max_value),places) for _ in range(list_length)]
-
-Inputer.intlist(2,2,2)
