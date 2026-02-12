@@ -1,4 +1,4 @@
-# inputer
+# randlab
 
 ## What it does
 Utilities to generate random numeric data for testing and learning.
